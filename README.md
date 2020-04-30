@@ -1,4 +1,4 @@
-# upsv3
+# UPS_(With_RTC_&_Coulometer)_For_Raspberry_Pi_SKU:_EP-0118
 It is demo code for 52Pi UPS (With RTC &amp; Coulometer) For Raspberry Pi SKU: EP-0118
 ## WIKI URL 
 * (UPS with RTC and Coulometer For Raspberry Pi SKU: EP-0118）[https://wiki.52pi.com/index.php/UPS_(With_RTC_&_Coulometer)_For_Raspberry_Pi_SKU:_EP-0118]
